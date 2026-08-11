@@ -1,0 +1,9 @@
+# pip constraints aligned with pyproject.toml (torch wheels may vary by CUDA version)
+torch
+torchvision
+numpy
+pillow
+tqdm
+transformers
+matplotlib>=3.7
+seaborn>=0.13
