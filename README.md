@@ -16,3 +16,5 @@ bash Run.sh
 ```
 
 `Run.sh` runs three stages in sequence: Stage 1 pretraining -> Stage 2 few-shot fine-tuning -> Stage 3 summary. Logs, checkpoints, and the summary are written under `OUTPUT_ROOT` (configured in `Run.sh`).
+
+The pretrained and few-shot model weights are available at: https://pan.baidu.com/s/1o07s69fOXVWUcJLiO3YftA?pwd=b6un
